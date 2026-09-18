@@ -58,23 +58,27 @@ My research interests include **Humanoid**, **Dexterous hand**, and **Reinforcem
 
 <div class="cv-list">
 
-  <div class="cv-row">
-    <div class="cv-date">2025.03 – Present</div>
-    <div class="cv-content">
-      <strong>KAIST</strong>, [Your Lab Name]<br>
-      <span class="cv-sub">M.S. Student / Research Assistant<br>
-      Research on [your research topic]</span>
-    </div>
-  </div>
+<div class="cv-row">
+<div class="cv-date">2025.03 – Present</div>
+<div class="cv-content">
+<strong>KAIST</strong>, [Your Lab Name]<br>
+<span class="cv-sub">
+M.S. Student / Research Assistant<br>
+Research on [your research topic]
+</span>
+</div>
+</div>
 
-  <div class="cv-row">
-    <div class="cv-date">2024.06 – 2024.08</div>
-    <div class="cv-content">
-      <strong>[Company or University]</strong><br>
-      <span class="cv-sub">Research Intern<br>
-      Worked on [your project or research topic]</span>
-    </div>
-  </div>
+<div class="cv-row">
+<div class="cv-date">2024.06 – 2024.08</div>
+<div class="cv-content">
+<strong>[Company or University]</strong><br>
+<span class="cv-sub">
+Research Intern<br>
+Worked on [your project or research topic]
+</span>
+</div>
+</div>
 
 </div>
 
