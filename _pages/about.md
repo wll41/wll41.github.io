@@ -10,22 +10,22 @@ redirect_from:
 
 Hello! Welcome to my portfolio site. I am a Master's student in Electrical Engineering at KAIST, Korea, advised by Prof. Dong Eui Chang in [Ctrl Lab](https://control.kaist.ac.kr/home). I received my B.Eng. in Artificial Intelligence from Hunan University, China in 2026.
 
-My research interests include **Humanoid**, **Dexterous manipulation**, and **Reinforcement Learning**. Outside of research and engineering, I love reading, playing guitar, swimming, roguelike game and anything that is beautiful and fascinating.
+My research interests include **Humanoid**, **Dexterous manipulation**, **Reinforcement Learning** and **Neuroscience-inspired AI**. Outside of research and engineering, I love reading, playing guitar, detective fiction and roguelike game.
 
 ## News
 
 - **[2026.03]** I got admitted to the M.S. program in KAIST EE, with KAIST Full Tuition scholarship and KRW 1200000/month stipend.
 
+## Publications
+Coming soon. There will be bread. There will be papers.
 
 ## Experience
 
-**[Your Lab / Institution]**  
-*Research Assistant / Research Intern*  
-[Month Year] – Present
+**Ctrl Lab**  
+Graduate Research Assistant  
+2026.08 – Present
 
-- Worked on [research topic].
-- Developed [method/system/project].
-- Conducted research on [area].
+- Conduct research on Reinforcement Learning for Humanoid Locomotion Control.
 
 ## Education
 
