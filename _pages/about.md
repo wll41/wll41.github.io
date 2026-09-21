@@ -23,9 +23,8 @@ Coming soon. There will be bread. There will be papers.
 
 **Ctrl Lab**  
 Graduate Research Assistant  
-2026.08 – Present
-
-- Conduct research on Reinforcement Learning for Humanoid Locomotion Control.
+2026.08 – Present  
+Reinforcement Learning for Humanoid Locomotion Control
 
 ## Education
 
